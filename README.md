@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- A **Web Pentester** & **Red Hat Hacker in Progress**  
+- A **Web Pentester** & <span style="color:red"><b>Red Hat Hacker in Progress</b></span>  
 - Passionate about **cybersecurity**, **bug hunting**, and **ethical hacking**
 - I believe in **learning by doing** and solving **real-world challenges**
 - Security is not just a job for me — **it's a lifestyle**
@@ -27,6 +27,8 @@
 
 ### 🤝 Connect with Me
 
-- [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/YourUsername) GitHub
-- [![TryHackMe](https://img.shields.io/badge/-TryHackMe-232323?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YourUsername) TryHackMe
-- [![Email](https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com) Email
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-232323?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YourUsername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YourUsername)
+[![Email](https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
