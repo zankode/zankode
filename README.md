@@ -16,19 +16,17 @@
 
 ### 🛠️ Technologies & Tools
 
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python | 
-- ![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) Linux (Kali/Parrot) |
-- ![Burp Suite](https://upload.wikimedia.org/wikipedia/commons/e/ec/Burp_Suite_logo.svg) Burp Suite | 
-- ![Nmap](https://upload.wikimedia.org/wikipedia/commons/5/5a/Nmap_logo.svg) Nmap | 
-- ![Nikto](https://upload.wikimedia.org/wikipedia/commons/4/48/Nikto_logo.svg) Nikto | 
-- ![OWASP ZAP](https://upload.wikimedia.org/wikipedia/commons/f/f2/Owasp-zap-logo.svg) OWASP ZAP | 
-- ![FFUF](https://upload.wikimedia.org/wikipedia/commons/6/69/Ffuf_logo.svg) FFUF | 
-- ![Postman](https://upload.wikimedia.org/wikipedia/commons/a/a5/Postman_Logo_2022.svg) Postman
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-004372?style=flat-square&logo=nmap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-009DC4?style=flat-square&logo=owasp&logoColor=white)
 
 ---
 
 ### 🤝 Connect with Me
 
-- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/yourprofile) Twitter
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_Logo_2019.svg)](https://www.linkedin.com/in/yourprofile) LinkedIn
-- [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourprofile) GitHub
+- [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/YourUsername) GitHub
+- [![TryHackMe](https://img.shields.io/badge/-TryHackMe-232323?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YourUsername) TryHackMe
+- [![Email](https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com) Email
