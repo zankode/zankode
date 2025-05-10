@@ -7,23 +7,21 @@
 
 ### 🧠 About Me
 
-- A **Web Pentester** & Hacker walking the **Red Hat** path  
+- A **Web Pentester** & **Red Hat Hacker in Progress**  
 - Passionate about **cybersecurity**, **bug hunting**, and **ethical hacking**
 - I believe in **learning by doing** and solving **real-world challenges**
 - Security is not just a job for me — **it's a lifestyle**
 
 ---
 
-### 📚 Currently Learning
+### 🛠️ Technologies & Tools
 
-- Bug Bounty platforms (HackerOne, Bugcrowd)
-- Advanced Web Vulnerabilities
-- JavaScript for Security Researchers
-- OSINT & Recon Techniques
+- Burp Suite | Nmap | Nikto | FFUF | OWASP ZAP | Postman | Linux (Kali/Parrot)
 
 ---
 
-### ⚙️ Tools I Use
+### 🤝 Connect with Me
 
-```bash
-Burp Suite | Nmap | Nikto | FFUF | OWASP ZAP | Postman | Linux (Kali/Parrot)
+- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourprofile)
