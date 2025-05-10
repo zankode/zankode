@@ -16,12 +16,19 @@
 
 ### 🛠️ Technologies & Tools
 
-- Burp Suite | Nmap | Nikto | FFUF | OWASP ZAP | Postman | Linux (Kali/Parrot)
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python | 
+- ![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) Linux (Kali/Parrot) |
+- ![Burp Suite](https://upload.wikimedia.org/wikipedia/commons/e/ec/Burp_Suite_logo.svg) Burp Suite | 
+- ![Nmap](https://upload.wikimedia.org/wikipedia/commons/5/5a/Nmap_logo.svg) Nmap | 
+- ![Nikto](https://upload.wikimedia.org/wikipedia/commons/4/48/Nikto_logo.svg) Nikto | 
+- ![OWASP ZAP](https://upload.wikimedia.org/wikipedia/commons/f/f2/Owasp-zap-logo.svg) OWASP ZAP | 
+- ![FFUF](https://upload.wikimedia.org/wikipedia/commons/6/69/Ffuf_logo.svg) FFUF | 
+- ![Postman](https://upload.wikimedia.org/wikipedia/commons/a/a5/Postman_Logo_2022.svg) Postman
 
 ---
 
 ### 🤝 Connect with Me
 
-- [Twitter](https://twitter.com/yourprofile)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourprofile)
+- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/yourprofile) Twitter
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_Logo_2019.svg)](https://www.linkedin.com/in/yourprofile) LinkedIn
+- [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourprofile) GitHub
