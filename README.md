@@ -73,5 +73,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="350px" alt="Einstein Hacker Style">
+  <img src="https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif
+" width="350px" alt="Einstein Hacker Style">
 </p>
