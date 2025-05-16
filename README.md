@@ -1,24 +1,22 @@
-<h1 align="center">🕶️ Hi there, I'm <span style="color:#00bfff;">Zankode</span></h1>
+<h1 align="center">🕶️ Zankode | <span style="color:#00bfff;">Web Pentester</span></h1>
 
 <p align="center">
-  <strong>Web Pentester | Cybersecurity Enthusiast | Bug Hunter</strong><br>
-  <em>"I don't break systems... I reveal the truth behind them."</em><br>
-  <em>🔍 Hacking isn't a job — it's a way of thinking 🧠</em>
+  <strong>Bug Hunter | Cybersecurity Enthusiast | Red Hat Hacker in Progress</strong><br>
+  <em>Hacking isn’t a job — it’s a mindset 🔐</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💥 Web Pentester & <strong>Red Hat Hacker in Progress</strong>
-- 🐞 I live for cybersecurity, bug bounty, and digital forensics
-- 🔧 Break. Analyze. Learn. Repeat.
-- 🧠 I believe in <strong>learning by doing</strong> — not by watching
-- 🔒 Security is not a 9-to-5, it’s a mindset and a lifestyle
+- 🛡️ Focused on web application security, ethical hacking & red teaming
+- 🧠 Obsessed with real-world exploits and creative attack vectors
+- 🧩 Always learning through CTFs, labs, and breaking stuff (legally!)
+- 🔥 Turning 0days into art — one payload at a time
 
 ---
 
-### ⚔️ My Arsenal
+### ⚙️ Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -64,15 +62,3 @@
 </p>
 
 ---
-
-### 🧠 Quote I Live By
-
-> “The important thing is not to stop questioning. Curiosity has its own reason for existence.”  
-> — <em>Albert Einstein</em>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif
-" width="350px" alt="Einstein Hacker Style">
-</p>
