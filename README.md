@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zankode</h1>
+<h1 align="center">Hi, I'm Zanko</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Web+Pentester;Red+Hat+Hacker+in+Progress;Lover+of+0s+and+1s;Security+is+a+Lifestyle" alt="Typing SVG" />
 </p>
