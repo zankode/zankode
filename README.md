@@ -4,12 +4,12 @@
 
 ---
 
-## 👾 About Me
+## 👾 Hey, I'm Zanko
 
-- 🛠️ Web Pentester & Red Hat Hacker in Progress
-- 🧠 Always learning by breaking things, not just reading docs
-- 🎯 Bug bounty addict — hacking real targets, not just lab machines
-- 🚀 Security is my way of life, not a hobby
+- 🛠️ Web Pentester & Red Team Enthusiast
+- 💣 Focused on real-world hacking, not just labs
+- 🎯 Bug bounty hunter targeting live apps, not PDFs
+- 🧠 I break things to understand them — code, systems, mindset
 
 ---
 
@@ -33,16 +33,16 @@
 
 ---
 
-## 📚 Always Learning
+## 🔥 What I'm Building & Breaking
 
-- 🔍 Mastering Web Exploitation (XSS, SSRF, RCE, IDOR...)
-- 🛡️ Deep-diving into Linux Security & Red Teaming
-- 🧪 Playing in exploit labs and CTFs
-- 📖 Studying OSCP path, buffer overflows & advanced fuzzing
+- 🎯 Hunting live web vulnerabilities across platforms
+- 🔧 Developing automated tools for recon and fuzzing
+- 🧠 Reverse engineering logic flows & bypassing filters
+- ⚔️ Practicing Red Team tradecraft through custom labs
 
 ---
 
-## 📡 Contact & Socials
+## 📡 Connect with Me
 
 - 🐙 GitHub: [@zankode](https://github.com/zankode)
 - 🕵️ HackerOne: actively hunting
