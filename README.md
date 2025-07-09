@@ -44,11 +44,11 @@
 
 ## 📡 Connect with Me
 
-- 🐙 GitHub: [@zankode](https://github.com/zankode)
-- 🕵️ HackerOne: actively hunting
-- 📸 Instagram: @zankodesec
-- 🐦 Twitter: @zankodesec
-- 📬 Email: zankodesec@gmail.com
+<a href="#"><img src="https://img.shields.io/badge/HackerOne-Profile-black?logo=hackerone" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Bugcrowd-Researcher-orange?logo=bugcrowd" /></a>
+<a href="https://t.me/zankodesec"><img src="https://img.shields.io/badge/Telegram-@zankodesec-blue?logo=telegram" /></a>
+<a href="https://instagram.com/zankodesec"><img src="https://img.shields.io/badge/Instagram-@zankodesec-pink?logo=instagram" /></a>
+<a href="mailto:zankodesec@gmail.com"><img src="https://img.shields.io/badge/Email-zankodesec%40gmail.com-red?logo=gmail" /></a>
 
 ---
 
