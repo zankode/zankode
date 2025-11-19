@@ -1,55 +1,57 @@
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=ZANKO+%7C+Web+Pentester;Bug+Bounty+Hunter;Red+Hat+Hacker+in+Progress;Built+from+Pain+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=ZANKO+%7C+Web+Pentester;Bug+Bounty+Hunter;Red+Hat+Hacker+in+Progress;Built+from+Pain+%26+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👾 Hey, I'm Zanko
+<!-- CLEAN INTRO -->
+## 👾 About Me
 
-- 🛠️ Web Pentester & Red Team Enthusiast
-- 💣 Focused on real-world hacking, not just labs
-- 🎯 Bug bounty hunter targeting live apps, not PDFs
-- 🧠 I break things to understand them — code, systems, mindset
+I focus on **real-world hacking**, not playground labs.  
+Building tools, breaking systems, and understanding how software really fails.
+
+- Web Pentester & Red Team Enthusiast  
+- Bug bounty hunter targeting **live production systems**  
+- Obsessed with logic flaws, bypasses & deep recon  
+- Breaking things to study the architecture underneath  
 
 ---
 
+<!-- SKILLS WITH ANIMATED EFFECT -->
 ## ⚔️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/-TCPDump-009688?style=flat-square&logo=gnu&logoColor=white)
-![Netcat](https://img.shields.io/badge/-Netcat-444444?style=flat-square&logo=linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-004372?style=flat-square&logo=nmap&logoColor=white)
-![Recon-ng](https://img.shields.io/badge/-Recon--ng-6A0DAD?style=flat-square&logo=gnupg&logoColor=white)
-![Maltego](https://img.shields.io/badge/-Maltego-0080FF?style=flat-square&logo=maltego&logoColor=white)
-![theHarvester](https://img.shields.io/badge/-theHarvester-212121?style=flat-square&logo=hackthebox&logoColor=white)
-![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white)
-![Amass](https://img.shields.io/badge/-Amass-336791?style=flat-square&logo=linuxfoundation&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square&logo=burp-suite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-009DC4?style=flat-square&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,js,linux,git,github&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Nmap-004372?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" />
+</p>
 
 ---
 
-## 🔥 What I'm Building & Breaking
+<!-- ANIMATED CONSOLE EFFECT -->
+## 🔥 What I'm Working On
 
-- 🎯 Hunting live web vulnerabilities across platforms
-- 🔧 Developing automated tools for recon and fuzzing
-- 🧠 Reverse engineering logic flows & bypassing filters
-- ⚔️ Practicing Red Team tradecraft through custom labs
-
----
-
-## 📡 Connect with Me
-
-<a href="#"><img src="https://img.shields.io/badge/HackerOne-Profile-black?logo=hackerone" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bugcrowd-Researcher-orange?logo=bugcrowd" /></a>
-<a href="https://t.me/zankode"><img src="https://img.shields.io/badge/Telegram-@zankodesec-blue?logo=telegram" /></a>
-<a href="https://instagram.com/zankodesec"><img src="https://img.shields.io/badge/Instagram-@zankodesec-pink?logo=instagram" /></a>
-<a href="mailto:zankodesec@gmail.com"><img src="https://img.shields.io/badge/Email-zankodesec%40gmail.com-red?logo=gmail" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=550&lines=Live+target+vulnerability+hunting;Automated+recon+%26+tooling;Logic+flaw+analysis+%26+bypass;Red+team+tradecraft+simulations" alt="console" />
+</p>
 
 ---
 
-> "No system is ever secure — I am the bug crawling underneath."
+<!-- CLEAN CONTACT SECTION -->
+## 📡 Contact
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bugcrowd-Researcher-F97F29?style=for-the-badge&logo=bugcrowd" /></a>
+  <a href="https://t.me/zankode"><img src="https://img.shields.io/badge/Telegram-@zankodesec-1E90FF?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://instagram.com/zankodesec"><img src="https://img.shields.io/badge/Instagram-@zankodesec-C13584?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:zankodesec@gmail.com"><img src="https://img.shields.io/badge/Email-zankodesec%40gmail.com-D44638?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center"><i>"No system is ever secure — I am the bug crawling underneath."</i></p>
