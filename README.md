@@ -4,7 +4,16 @@
 
 ---
 
-**Contact:**
-- Telegram: @zankodesec
-- Instagram: @zankodesec
-- Email: zankodesec@gmail.com
+<p align="center">
+  <a href="https://t.me/zankodesec">
+    <img src="https://img.shields.io/badge/Telegram-@zankodesec-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://instagram.com/zankodesec">
+    <img src="https://img.shields.io/badge/Instagram-@zankodesec-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br>
+  <a href="mailto:zankodesec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zankodesec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
