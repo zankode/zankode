@@ -5,11 +5,11 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/zankodesec">
+  <a href="https://t.me/zankode">
     <img src="https://img.shields.io/badge/Telegram-@zankodesec-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br>
-  <a href="https://instagram.com/zankodesec">
+  <a href="https://instagram.com/zanko_soleimani">
     <img src="https://img.shields.io/badge/Instagram-@zankodesec-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
