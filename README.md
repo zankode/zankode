@@ -12,29 +12,23 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tools & Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=6C63FF" />
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=6C63FF" />
   <img src="https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin&logoColor=6C63FF" />
   <img src="https://img.shields.io/badge/Burp%20Suite-181717?style=flat&logo=burpsuite&logoColor=6C63FF" />
-  <img src="https://img.shields.io/badge/Nmap-181717?style=flat&logo=nmap&logoColor=6C63FF" />
+  <img src="https://img.shields.io/badge/...-181717?style=flat&logoColor=6C63FF" />
 </p>
 
 ---
 
-### 📬 Find Me
+### Find Me
 
 <p align="center">
   <a href="https://t.me/zankode"><img src="https://img.shields.io/badge/Telegram-@zankode-181717?style=for-the-badge&logo=telegram&logoColor=6C63FF" /></a>
   <a href="https://instagram.com/zanko_soleimani"><img src="https://img.shields.io/badge/Instagram-@zanko__soleimani-181717?style=for-the-badge&logo=instagram&logoColor=6C63FF" /></a>
   <br>
   <a href="mailto:zankodesec@gmail.com"><img src="https://img.shields.io/badge/Email-zankodesec@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=6C63FF" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zankode&color=6C63FF&style=flat-square&label=👁️+Views" />
 </p>
